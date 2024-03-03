@@ -1,0 +1,12 @@
+{
+  "hash": "2d7eabca64f12c0ad9111e40e23f77eb67c4a85553993c3f8869dd1aa350e591",
+  "active": "52ec8706287cfa9fe1e4e999a0bdef67e4113b68b6bc2a7ecac8a8f48704397f",
+  "chains": [
+    "evm"
+  ],
+  "networks": [
+    "swap",
+    "get_and_set_token_allowance",
+    "check_token_balance"
+  ]
+}
